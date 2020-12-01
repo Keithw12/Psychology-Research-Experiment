@@ -1,5 +1,6 @@
 # RLWM_model
-RLWM ACT-R model
+
+### Measures response time of input generated from a computer model that simulates human cognition. University research project
 
 <h2>Experiment Flow</h2>
 
